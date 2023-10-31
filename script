@@ -1,3 +1,2 @@
 say "you have been hacked haha"
-cd ~/desktop
-touch pwned
+say "does this work?"
